@@ -1,4 +1,4 @@
-module makesite
+module github.com/yinnyC/makesite
 
 go 1.13
 
